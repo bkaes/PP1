@@ -1,0 +1,11 @@
+.lander {
+    display: inline-block;
+    justify-items: center;    
+    height: 40vh;
+    width: 60vw;
+    position: relative;
+}
+#space {
+    display: inline-block;
+    width:20vw;
+}
